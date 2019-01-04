@@ -1,0 +1,26 @@
+<annotation>
+	<folder>negatifPhoto</folder>
+	<filename>flower_0637.jpg</filename>
+	<path>C:\Users\Ebruarslan\Desktop\negatifPhoto\flower_0637.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>556</width>
+		<height>361</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>copdegil</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>147</xmin>
+			<ymin>11</ymin>
+			<xmax>497</xmax>
+			<ymax>288</ymax>
+		</bndbox>
+	</object>
+</annotation>

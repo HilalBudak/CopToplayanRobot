@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>negatifPhoto</folder>
+	<filename>IMG_2534.JPG</filename>
+	<path>C:\Users\Ebruarslan\Desktop\negatifPhoto\IMG_2534.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>828</width>
+		<height>1472</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>copdegil</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>88</xmin>
+			<ymin>395</ymin>
+			<xmax>826</xmax>
+			<ymax>1448</ymax>
+		</bndbox>
+	</object>
+</annotation>

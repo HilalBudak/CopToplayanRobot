@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>negatifPhoto</folder>
+	<filename>IMG_2744.JPG</filename>
+	<path>C:\Users\Ebruarslan\Desktop\negatifPhoto\IMG_2744.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1199</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>copdegil</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>407</xmin>
+			<ymin>282</ymin>
+			<xmax>1255</xmax>
+			<ymax>1071</ymax>
+		</bndbox>
+	</object>
+</annotation>

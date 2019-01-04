@@ -1,0 +1,26 @@
+<annotation>
+	<folder>negatifPhoto</folder>
+	<filename>dog_0023.jpg</filename>
+	<path>C:\Users\Ebruarslan\Desktop\negatifPhoto\dog_0023.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>493</width>
+		<height>453</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>copdegil</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>122</xmin>
+			<ymin>2</ymin>
+			<xmax>488</xmax>
+			<ymax>291</ymax>
+		</bndbox>
+	</object>
+</annotation>

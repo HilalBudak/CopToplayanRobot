@@ -1,0 +1,26 @@
+<annotation>
+	<folder>plastic</folder>
+	<filename>plastic180.jpg</filename>
+	<path>C:\Users\Hilal\Desktop\dataset-resized\plastic\plastic180.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>384</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plastik</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>170</xmin>
+			<ymin>98</ymin>
+			<xmax>287</xmax>
+			<ymax>246</ymax>
+		</bndbox>
+	</object>
+</annotation>

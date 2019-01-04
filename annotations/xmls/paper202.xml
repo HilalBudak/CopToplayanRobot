@@ -1,0 +1,26 @@
+<annotation>
+	<folder>paper</folder>
+	<filename>paper202.jpg</filename>
+	<path>C:\Users\Ebruarslan\Desktop\dataset-resized\paper\paper202.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>384</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kagit</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>109</xmin>
+			<ymin>82</ymin>
+			<xmax>423</xmax>
+			<ymax>342</ymax>
+		</bndbox>
+	</object>
+</annotation>

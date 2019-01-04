@@ -1,0 +1,27 @@
+item {
+  id: 1
+  name: 'cam'
+}
+ 
+item {
+  id: 2
+  name: 'metal'
+}
+ 
+item {
+  id: 3
+  name: 'kagit'
+}
+ 
+item {
+  id: 4
+  name: 'plastik'
+}
+
+item {
+  id: 5
+  name: 'copdegil'
+}
+
+ 
+

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>glass</folder>
+	<filename>glass194.jpg</filename>
+	<path>C:\Users\Hilal\Desktop\dataset-resized\glass\glass194.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>384</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cam</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>75</xmin>
+			<ymin>110</ymin>
+			<xmax>307</xmax>
+			<ymax>238</ymax>
+		</bndbox>
+	</object>
+</annotation>
